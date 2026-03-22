@@ -39,7 +39,8 @@ análise energética e integração com inteligência artificial via API do Goog
 <img width="1342" height="605" alt="image" src="https://github.com/user-attachments/assets/79f5c297-a6b9-4695-b40e-1c867ae19446" />
 
 ## ANÁLISE ASSISTIDA POR IA [ATIVANDO IA]:
-<img width="1236" height="396" alt="image" src="https://github.com/user-attachments/assets/a8f2acba-1868-42ab-a757-1bd4680be7e0" />
+Link do Google Drive com vídeo Explicando Cada algoritmo inclusive esse: https://drive.google.com/file/d/1aCeAtu6PvoiKcRXpZvMvu9GGKJe1_9Vv/view?usp=sharing
+
 
 
 
